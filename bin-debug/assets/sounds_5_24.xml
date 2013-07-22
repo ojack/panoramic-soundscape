@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SOUNDLIST >
+<CHARACTER SPECIES="Raccoon" DESC="These master vocalists belt out a string of short whistles, warbles, burrs, and trills to attract mates and defend their territory, or scold visitors with raspy calls. Bewick’s Wrens are still fairly common in much of western North America, but they have virtually disappeared from the East." IMG_URL="assets/images/raccoon.png" URL="assets/sounds_5_24/raccoon.mp3" WAVE="assets/waveforms/raccoon.png" ZONE="1"/>
+<CHARACTER SPECIES="American Crow" DESC="Description" IMG_URL="assets/images/american_crow.png" URL="assets/sounds_5_24/american_crow.mp3" WAVE="assets/waveforms/american_crow.png" ZONE="3"/>
+<CHARACTER SPECIES="Anna's Hummingbird" DESC="Description" IMG_URL="assets/images/annas_hummingbird.png" URL="assets/sounds_5_24/annas_hummingbird.mp3" WAVE="assets/waveforms/annas_hummingbird.png" ZONE="3" />
+<CHARACTER SPECIES="Bewick's Wren" DESC="Description" IMG_URL="assets/images/bewicks_wren.png" URL="assets/sounds_5_24/bewicks_wren.mp3" WAVE="assets/waveforms/bewicks_wren.png" ZONE="2"/>
+<CHARACTER SPECIES="California Towhee" DESC="Description" IMG_URL="assets/images/california_towhee.png" URL="assets/sounds_5_24/california_towhee.mp3" WAVE="assets/waveforms/california_towhee.png" ZONE="3"/>
+<CHARACTER SPECIES="Cooper's Hawk" DESC="Description" IMG_URL="assets/images/coopers_hawk.png" URL="assets/sounds_5_24/coopers_hawk.mp3" WAVE="assets/waveforms/coopers_hawk.png" ZONE="2"/>
+<CHARACTER SPECIES="Dark-Eyed Junco" DESC="Description" IMG_URL="assets/images/dark_eyed_junco.png" URL="assets/sounds_5_24/dark_eyed_junco.mp3" WAVE="assets/waveforms/dark_eyed_junco.png" ZONE="2"/>
+<CHARACTER SPECIES="Golden-crowned Sparrow" DESC="Description" IMG_URL="assets/images/golden_crowned_sparrow.png" URL="assets/sounds_5_24/golden_crowned_sparrow.mp3" WAVE="assets/waveforms/golden_crowned_sparrow.png" ZONE="2" />
+<CHARACTER SPECIES="Hairy Woodpecker" DESC="Description" IMG_URL="assets/images/hairy_woodpecker.png" URL="assets/sounds_5_24/hairy_woodpecker.mp3" WAVE="assets/waveforms/hairy_woodpecker.png" ZONE="3"/>
+<CHARACTER SPECIES="Northern Mockingbird" DESC="Description" IMG_URL="assets/images/northern_mockingbird.png" URL="assets/sounds_5_24/northern_mockingbird.mp3" WAVE="assets/waveforms/northern_mockingbird.png" ZONE="2"/>
+<CHARACTER SPECIES="Oppossum" DESC="Description" IMG_URL="assets/images/oppossum.png" URL="assets/sounds_5_24/oppossum.mp3" WAVE="assets/waveforms/oppossum.png" ZONE="1"/>
+<CHARACTER SPECIES="Western Gull" DESC="Description" IMG_URL="assets/images/western_gull.png" URL="assets/sounds_5_24/western_gull.mp3" WAVE="assets/waveforms/western_gull.png" ZONE="2"/>
+<CHARACTER SPECIES="Raccoon" DESC="These master vocalists belt out a string of short whistles, warbles, burrs, and trills to attract mates and defend their territory, or scold visitors with raspy calls. Bewick’s Wrens are still fairly common in much of western North America, but they have virtually disappeared from the East." IMG_URL="assets/images/raccoon.png" URL="assets/sounds_5_24/raccoon.mp3" WAVE="assets/waveforms/raccoon.png" ZONE="1"/>
+<CHARACTER SPECIES="American Crow" DESC="Description" IMG_URL="assets/images/american_crow.png" URL="assets/sounds_5_24/american_crow.mp3" WAVE="assets/waveforms/american_crow.png" ZONE="3"/>
+<CHARACTER SPECIES="Anna's Hummingbird" DESC="Description" IMG_URL="assets/images/annas_hummingbird.png" URL="assets/sounds_5_24/annas_hummingbird.mp3" WAVE="assets/waveforms/annas_hummingbird.png" ZONE="3" />
+<CHARACTER SPECIES="Bewick's Wren" DESC="Description" IMG_URL="assets/images/bewicks_wren.png" URL="assets/sounds_5_24/bewicks_wren.mp3" WAVE="assets/waveforms/bewicks_wren.png" ZONE="2"/>
+<CHARACTER SPECIES="California Towhee" DESC="Description" IMG_URL="assets/images/california_towhee.png" URL="assets/sounds_5_24/california_towhee.mp3" WAVE="assets/waveforms/california_towhee.png" ZONE="3"/>
+<CHARACTER SPECIES="Cooper's Hawk" DESC="Description" IMG_URL="assets/images/coopers_hawk.png" URL="assets/sounds_5_24/coopers_hawk.mp3" WAVE="assets/waveforms/coopers_hawk.png" ZONE="2"/>
+<CHARACTER SPECIES="Dark-Eyed Junco" DESC="Description" IMG_URL="assets/images/dark_eyed_junco.png" URL="assets/sounds_5_24/dark_eyed_junco.mp3" WAVE="assets/waveforms/dark_eyed_junco.png" ZONE="2"/>
+<CHARACTER SPECIES="Golden-crowned Sparrow" DESC="Description" IMG_URL="assets/images/golden_crowned_sparrow.png" URL="assets/sounds_5_24/golden_crowned_sparrow.mp3" WAVE="assets/waveforms/golden_crowned_sparrow.png" ZONE="2" />
+<CHARACTER SPECIES="Hairy Woodpecker" DESC="Description" IMG_URL="assets/images/hairy_woodpecker.png" URL="assets/sounds_5_24/hairy_woodpecker.mp3" WAVE="assets/waveforms/hairy_woodpecker.png" ZONE="3"/>
+<CHARACTER SPECIES="Northern Mockingbird" DESC="Description" IMG_URL="assets/images/northern_mockingbird.png" URL="assets/sounds_5_24/northern_mockingbird.mp3" WAVE="assets/waveforms/northern_mockingbird.png" ZONE="2"/>
+<CHARACTER SPECIES="Oppossum" DESC="Description" IMG_URL="assets/images/oppossum.png" URL="assets/sounds_5_24/oppossum.mp3" WAVE="assets/waveforms/oppossum.png" ZONE="1"/>
+<CHARACTER SPECIES="Western Gull" DESC="Description" IMG_URL="assets/images/western_gull.png" URL="assets/sounds_5_24/western_gull.mp3" WAVE="assets/waveforms/western_gull.png" ZONE="2"/>
+</SOUNDLIST>

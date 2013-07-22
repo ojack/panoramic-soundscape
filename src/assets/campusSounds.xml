@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SOUNDLIST>
+<CHARACTER SPECIES="Inner Coast Woodland" URL="assets/campusAudio/inner_coast_woodland.mp3" />
+<CHARACTER SPECIES="Lazuli Bunting" URL="assets/campusAudio/lazuli_bunting.mp3" />
+<CHARACTER SPECIES="Bees" URL="assets/campusAudio/bees.mp3" />
+<CHARACTER SPECIES="Bewicks Wren" URL="assets/campusAudio/bewicks.mp3" />
+<CHARACTER SPECIES="Pigeons" URL="assets/campusAudio/pigeons.mp3" />
+<CHARACTER SPECIES="Raccoon" URL="assets/campusAudio/raccoon.mp3" />
+<CHARACTER SPECIES="Scrub Jay" URL="assets/campusAudio/scrubjay.mp3" />
+
+<CHARACTER SPECIES="Sea Gull" URL="assets/campusAudio/seagull.mp3" />
+<CHARACTER SPECIES="Stellars Jay" URL="assets/campusAudio/stellarsjay.mp3" />
+
+
+
+</SOUNDLIST>

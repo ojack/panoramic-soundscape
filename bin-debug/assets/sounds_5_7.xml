@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SOUNDLIST  >
+<CHARACTER SPECIES="Raccoon" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/raccoon.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="1"/>
+<CHARACTER SPECIES="American Crow" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/american_crow.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="3"/>
+<CHARACTER SPECIES="Anna's Hummingbird" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/annas_hummingbird.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="3" />
+<CHARACTER SPECIES="Bewick's Wren" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/bewicks_wren.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="2"/>
+<CHARACTER SPECIES="California Towhee" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/california_towhee.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="3"/>
+<CHARACTER SPECIES="Cooper's Hawk" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/coopers_hawk.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="2"/>
+<CHARACTER SPECIES="Dark-Eyed Junco" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/dark_eyed_junco.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="2"/>
+<CHARACTER SPECIES="Golden-crowned Sparrow" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/golden_crowned_sparrow.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="2" />
+<CHARACTER SPECIES="Hairy Woodpecker" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/hairy_woodpecker.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="3"/>
+<CHARACTER SPECIES="Northern Mockingbird" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/northern_mockingbird.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="2"/>
+<CHARACTER SPECIES="Oppossum" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/oppossum.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="1"/>
+<CHARACTER SPECIES="Squirrel" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/squirrel.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="1"/>
+<CHARACTER SPECIES="Western Gull" DESC="Description" IMG_URL="assets/images/wren.png" URL="assets/sounds5_7/western_gull.mp3" WAVE="assets/waveforms/waveform-inverse.png" ZONE="2"/>
+</SOUNDLIST>
